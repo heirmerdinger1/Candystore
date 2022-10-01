@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Save restricted content Bot</b>
+  <b>CandyStore</b>
 </h1> 
 
 Contact: [Telegram](https://t.me/leo_memlon)
@@ -62,7 +62,7 @@ Deploy your bot on `heroku`
 
 CLick Button
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ankitmeena01/anktsavecont.2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://https://github.com/heirmerdinger1/Candystore)
 
 Changes to make
 add repo link in deploy button - readme file
