@@ -1,14 +1,14 @@
 {
-    "name": "Save Restricted Bot",
-    "description": "Saves restricted content",
+    "name": "CandyStore",
+    "description": "CandyStore",
     "logo": "",
     "keywords": [
-        "A",
-        "telegram",
-        "save restricted",
-        "bot"
+        "Step",
+        "Into",
+        "my",
+        "Candystore"
     ],
-    "repository": "https://github.com/ymwd/anktsavecont.2",
+    "repository": "https://github.com/heirmerdinger1/Candystore",
     "website": "",
     "success_url": "https://t.me/url_uploader_A",
     "env": {
